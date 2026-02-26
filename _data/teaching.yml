@@ -1,0 +1,17 @@
+- role: Teaching Assistant
+  school: Simon Fraser University
+  location: Burnaby, BC
+  dates: "Sep 2024 - Dec 2025"
+  courses:
+    - Introduction to Microeconomics
+    - Intermediate Microeconomics
+    - Development Economics
+
+- role: Teaching Assistant
+  school: Dalhousie University
+  location: Halifax, NS
+  dates: "May 2022 - May 2024"
+  courses:
+    - History of Economic Thought
+    - Women and Economics
+    - Development Economics (Graduate)
